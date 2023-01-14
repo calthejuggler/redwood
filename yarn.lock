@@ -6923,7 +6923,7 @@ __metadata:
     prettier: 2.8.2
     prisma: 4.8.1
     prompts: 2.4.2
-    rimraf: 3.0.2
+    rimraf: 4.0.5
     secure-random-password: 0.2.3
     terminal-link: 2.1.1
     title-case: 3.0.3
@@ -7018,7 +7018,7 @@ __metadata:
     nodemon: 2.0.20
     null-loader: 4.0.1
     react-refresh: 0.14.0
-    rimraf: 3.0.2
+    rimraf: 4.0.5
     style-loader: 3.3.1
     typescript: 4.7.4
     url-loader: 4.1.1
@@ -7180,7 +7180,7 @@ __metadata:
     jest: 29.3.1
     kill-port: 1.6.1
     prettier: 2.8.2
-    rimraf: 3.0.2
+    rimraf: 4.0.5
     string-env-interpolation: 1.0.1
     systeminformation: 5.17.3
     terminal-link: 2.1.1
@@ -27247,6 +27247,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"rimraf@npm:4.0.5":
+  version: 4.0.5
+  resolution: "rimraf@npm:4.0.5"
+  bin:
+    rimraf: dist/cjs/src/bin.js
+  checksum: 3fc10b8ca48facac4dfd698ae918e7605c9a1a9bf25e5c26b53665aa80bc256a7f8383ad56f7c3d74c90e4e96dad2b43cfc5c41dab7da5c33be42903e44d16e8
+  languageName: node
+  linkType: hard
+
 "rimraf@npm:^2.5.4, rimraf@npm:^2.6.3":
   version: 2.7.1
   resolution: "rimraf@npm:2.7.1"
@@ -27357,7 +27366,7 @@ __metadata:
     octokit: 2.0.10
     ora: 5.4.1
     prompts: 2.4.2
-    rimraf: 3.0.2
+    rimraf: 4.0.5
     terminal-link: 2.1.1
     typescript: 4.7.4
     typescript-transform-paths: 3.4.4
